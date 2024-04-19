@@ -1,0 +1,27 @@
+h1.header-gta{
+    color:cyan;
+    text-shadow: 3px 5px #ff299f;   
+}
+div.question-text-gta{
+    color:chocolate;   
+}
+div{
+    background-color: black;
+}
+span{
+    color: aquamarine;
+}
+button.gta{
+    border-radius: 22px;
+    border-spacing: 25px;
+    font-size: 35px;
+    border-color: aquamarine;
+    background-color: black;
+    color:chocolate ;
+    
+}
+div.score-section-gta{
+    color:rgb(233, 180, 48);
+    text-shadow: 2.1px 2px #00f7ff;   
+    font-size: 55px;
+}

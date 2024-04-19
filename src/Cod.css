@@ -1,0 +1,20 @@
+button.answer-section-cod{
+    color: aquamarine;
+    background-color: black;
+    border-radius: 22px;
+    font-size: 37px;
+    border-color: chocolate;
+}
+div.question-text-cod{
+    color: rgb(248, 82, 21);
+    font-style: italic;
+    font-size: 45px;
+}
+div.score-section-cod{
+    color: aquamarine;
+}
+h1{
+    color: darkorange;
+    font-style: italic;
+    text-shadow: 2.5px 2.5px #ffffff;
+}

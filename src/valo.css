@@ -1,0 +1,17 @@
+h1.header-valo{
+    color: #ff0080;
+    text-shadow: 2px 2px cyan;
+}
+div.score-section-valo{
+    color: antiquewhite;
+}
+div.question-text-valo{
+    color:sandybrown;
+}
+button.valo{
+    color: aquamarine;
+    background-color: black;
+    border-radius: 22px;
+    font-size: 37px;
+    border-color: chocolate;
+}
